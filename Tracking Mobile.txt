@@ -35,6 +35,7 @@
 
 # Google
 
+@@||r2---sn-ug5onuxajv-gxmz.gvt1.com^
 ||admob.com^
 ||admob.mobi^
 ||admobclick.com^
