@@ -13,7 +13,6 @@
 ||facebook.com^$third-party,script
 ||fb.com^$third-party,script
 ||fb.com^$third-party,cookie
-||fbsbx.com^
 ||fbpigeon.com^
 ||graph.accountkit.com^
 ||graph.facebook-hardware.com^
