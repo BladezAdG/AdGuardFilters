@@ -3,7 +3,7 @@
 #Test One by One Because If you want to use Messenger one of this block inbox
 
 # Facebook
-
+@@||cdn.fbsbx.com^ # Download Files from inbox
 ||ads.facebook.com^
 ||analytics.facebook.com^
 ||connect.facebook.net^
