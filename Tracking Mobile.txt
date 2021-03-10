@@ -67,7 +67,6 @@
 ||stats.blogger.com^
 ||userlocation.googleapis.com^
 ||www-googletagmanager.l.google.com^
-||play.googleapis.com^
 
 # Smartphone + tablet + browser domain based DNS blocking
 
