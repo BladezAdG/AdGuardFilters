@@ -16,7 +16,6 @@
 ||fbsbx.com^
 ||fbpigeon.com^
 ||graph.accountkit.com^
-||graph.facebook.com^
 ||graph.facebook-hardware.com^
 ||graph.instagram.com^
 ||graph.oculus.com^
