@@ -28,6 +28,7 @@
 ||tr.facebook.com^
 ||sonar-iad.xx.fbcdn.net^
 ||scgraph.facebook.com^
+@@||cdn.fbsbx.com^
 
 #Check Google 
 
