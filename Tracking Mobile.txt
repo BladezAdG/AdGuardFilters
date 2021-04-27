@@ -4237,3 +4237,8 @@ ioam.de$
 # Google Play Store
 
 @@||r2---sn-ug5onuxajv-gxmz.gvt1.com^
+
+#Yandex
+
+||https://extmaps-api.yandex.net
+||https://logbak.hicloud.com
