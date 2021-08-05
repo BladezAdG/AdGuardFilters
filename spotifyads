@@ -3813,7 +3813,6 @@ cs126.wpc.edgecastcdn.net
 pagead46.l.doubleclick.net
 pagead.l.doubleclick.net
 video-ad-stats.googlesyndication.com
-pagead-googlehosted.l.google.com
 partnerad.l.doubleclick.net
 prod.spotify.map .fastlylb.net
 adserver.adtechus.com
@@ -4004,9 +4003,7 @@ www.googleadservices.com
 www.googletagservices.com
 www.omaze.com
 upgrade.scdn.co
-upgrade.scdn.co # opcional
 upgrade.spotify.com
-upgrade.spotify.com # opcional
 video-fa.cdn.spotify.com
 video-fa.scdn.co
 video-fa-b.cdn.spotify.com
