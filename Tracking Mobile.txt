@@ -4238,3 +4238,4 @@ ioam.de$
 
 ||https://extmaps-api.yandex.net
 ||https://logbak.hicloud.com
+graph.instagram.com
