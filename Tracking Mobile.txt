@@ -16,7 +16,6 @@
 ||fbpigeon.com^
 ||graph.accountkit.com^
 ||graph.facebook-hardware.com^
-||graph.instagram.com^
 ||graph.oculus.com^
 ||logger.instagram.com^
 ||onavo.com^
@@ -74,12 +73,9 @@
 
 # Twitter
 
-ads-twitter.com
-#cdn.syndication.twimg.com
+||ads-twitter.com
 crashlytics.twimg.com
-#platform.twitter.com
 static.ads-twitter.com
-#syndication.twitter.com
 twitter.app.link
 twitter-alternate.app.link
 
@@ -516,7 +512,7 @@ supportmetrics-uat.apple.com
 tr.iadsdk.apple.com
 ut.iadsdk.apple.com
 weather-analytics-events.apple.com
-www.iadsdk.apple.com
+iadsdk.apple.com
 
 # Amazon ads and tracking
 
