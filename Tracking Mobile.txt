@@ -57,7 +57,6 @@
 ||googletagservices.com^
 ||geomobileservices-pa.googleapis.com^
 ||googlesyndication.com^
-||gstaticadssl.l.google.com^
 ||metric.gstatic.com^
 ||mobile-displayads.l.doubleclick.net^
 ||pagead-googlehosted.l.google.com^
