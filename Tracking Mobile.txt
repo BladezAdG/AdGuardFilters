@@ -4050,185 +4050,183 @@ api.leanplum.com
 vungle.com$
 moatads
 mopub
-0.0.0.0 firebaselogging-pa.googleapis.com
+firebaselogging-pa.googleapis.com
 krxd
 googletagservices
-0.0.0.0 googlesyndication.com
-0.0.0.0 tpc.googlesyndication.com
-0.0.0.0 service.cmp.oath.com
-0.0.0.0 weather-analytics-events.apple.com
+googlesyndication.com
+tpc.googlesyndication.com
+service.cmp.oath.com
+weather-analytics-events.apple.com
 smoot.apple.com$
-0.0.0.0 e.reddit.com
-0.0.0.0 metrics.icloud.com
-0.0.0.0 heads-fa.scdn.co
-0.0.0.0 cs9.wac.phicdn.net
+e.reddit.com
+metrics.icloud.com
+heads-fa.scdn.co
+cs9.wac.phicdn.net
 segment.com$
-0.0.0.0 secure.gravatar.com
-0.0.0.0 gstaticadssl.l.google.com
-0.0.0.0 etl.tindersparks.com
-0.0.0.0 in.appcenter.ms
+secure.gravatar.com
+gstaticadssl.l.google.com
+etl.tindersparks.com
+in.appcenter.ms
 braze.com
-0.0.0.0 cf.iadsdk.apple.com
-0.0.0.0 xp.apple.com
-0.0.0.0 iphone-ld.apple.com
-0.0.0.0 gsp-ssl.ls.apple.com
-0.0.0.0 news-edge.apple.com
-0.0.0.0 news-events.apple.com
-0.0.0.0 gsp64-ssl.ls.apple.com
-0.0.0.0 gsas.apple.com
+cf.iadsdk.apple.com
+xp.apple.com
+iphone-ld.apple.com
+gsp-ssl.ls.apple.com
+news-edge.apple.com
+news-events.apple.com
+gsp64-ssl.ls.apple.com
+gsas.apple.com
 scoreresearch
 supersonicads.com$
-0.0.0.0 api.a.ue1az.gotinder.com
-0.0.0.0 inet.ess.apple.com
-0.0.0.0 alive.github.com
+api.a.ue1az.gotinder.com
+inet.ess.apple.com
+alive.github.com
 applovin.com$
 adcolony.com$
-0.0.0.0 platform.twitter.com
-0.0.0.0 gsp85-ssl.ls.apple.com
-0.0.0.0 gs-loc.apple.com
+platform.twitter.com
+gsp85-ssl.ls.apple.com
+gs-loc.apple.com
 snapads
-0.0.0.0 ocsp.apple.com
-0.0.0.0 stats.gc.apple.com
-0.0.0.0 stats.clover.co
-0.0.0.0 firebaseinstallations.googleapis.com
-0.0.0.0 gspe35-ssl.ls.apple.com
-0.0.0.0 gsp10-ssl.apple.com
+ocsp.apple.com
+stats.gc.apple.com
+stats.clover.co
+firebaseinstallations.googleapis.com
+gspe35-ssl.ls.apple.com
+gsp10-ssl.apple.com
 siteintercept.qualtrics.com
-0.0.0.0 pancake.apple.com
-0.0.0.0 config.edge.skype.com
-0.0.0.0 mon.tiktokv.com
-0.0.0.0 log16-normal-c-useast1a.tiktokv.com
-0.0.0.0 xlog-va.tiktokv.com
-0.0.0.0 cl5.apple.com
-0.0.0.0 cl6.apple.com
-0.0.0.0 cl4.apple.com
+pancake.apple.com
+config.edge.skype.com
+mon.tiktokv.com
+log16-normal-c-useast1a.tiktokv.com
+xlog-va.tiktokv.com
+cl5.apple.com
+cl6.apple.com
+cl4.apple.com
 byteoversea
-0.0.0.0 s0.ipstatp.com
-0.0.0.0 whoami.akamai.net
-0.0.0.0 gate.hockeyapp.net
-0.0.0.0 roaming.officeapps.live.com
-0.0.0.0 mobile.pipe.aria.microsoft.com
-0.0.0.0 incoming.telemetry.mozilla.org
-0.0.0.0 tags.tiqcdn.com
-0.0.0.0 api.leanplum.com
+s0.ipstatp.com
+whoami.akamai.net
+gate.hockeyapp.net
+roaming.officeapps.live.com
+mobile.pipe.aria.microsoft.com
+incoming.telemetry.mozilla.org
+tags.tiqcdn.com
+api.leanplum.com
 qq.com$
 taobao.com$
-0.0.0.0 idiagnostics.apple.com
+idiagnostics.apple.com
 amazon-adsystem.com$
-0.0.0.0 fls-na.amazon.com
-0.0.0.0 com.tenjin.ios.api
+fls-na.amazon.com
+com.tenjin.ios.api
 saypromo.net$
 criteo.com$
 inner-active.mobi$
-0.0.0.0 bds.snssdk.com
+bds.snssdk.com
 ssacdn
 appspot.com$
-0.0.0.0 cl3.apple.com
-0.0.0.0 gsp-ssl.ls-apple.com.akadns.net
-0.0.0.0 api-glb-ash.smoot.apple.com
+cl3.apple.com
+gsp-ssl.ls-apple.com.akadns.net
+api-glb-ash.smoot.apple.com
 tapjoy
 gameanalytics
-0.0.0.0 vs-api.voodoo-tech.io
+vs-api.voodoo-tech.io
 midasplayer
 candycrush
 king.com$
 footprint.net$
 https://app-measurement.com/sdk-exp
 inner-active.mobi$
-0.0.0.0 gspe79-ssl.ls.apple.com
-0.0.0.0 audio-ak-spotify-com.akamaized.net
-0.0.0.0 poole-collector-prod.n3twork.com
-0.0.0.0 gsp-ssl.ls-apple.com.akadns.net
-0.0.0.0 sb-ssl.google.com
+gspe79-ssl.ls.apple.com
+audio-ak-spotify-com.akamaized.net
+poole-collector-prod.n3twork.com
+gsp-ssl.ls-apple.com.akadns.net
+sb-ssl.google.com
 deltadna.net$
-0.0.0.0 www.tapresearch.com
+www.tapresearch.com
 safedk.com$
 crrepa.com$
-0.0.0.0 api-glb.smoot.apple.com
-0.0.0.0 xp.itunes-apple.com.akadns.net
-0.0.0.0 seed.siri.apple.com
-0.0.0.0 device-provisioning.googleapis.com
-0.0.0.0 myphonenumbers-pa.googleapis.com
-0.0.0.0 www.googletagmanager.com
+api-glb.smoot.apple.com
+xp.itunes-apple.com.akadns.net
+seed.siri.apple.com
+device-provisioning.googleapis.com
+myphonenumbers-pa.googleapis.com
+www.googletagmanager.com
 saygames.io$
-0.0.0.0 cdn-adn-https.rayjump.com
-0.0.0.0 adash.man.aliyuncs.com
-0.0.0.0 sh.wagbridge.aliyun-inc.com.gds.alibabadns.com
-0.0.0.0 b.yahoo.com
-0.0.0.0 saypromo.sfo2.cdn.digitaloceanspaces.com
-0.0.0.0 e4478.a.akamaiedge.net
-0.0.0.0 www.ketchapp.org
-0.0.0.0 humb.apple.com
-0.0.0.0 firebaseremoteconfig.googleapis.com
-0.0.0.0 sapphire-api.target.com
-0.0.0.0 devices.carnivalmobile.com
+cdn-adn-https.rayjump.com
+adash.man.aliyuncs.com
+sh.wagbridge.aliyun-inc.com.gds.alibabadns.com
+b.yahoo.com
+saypromo.sfo2.cdn.digitaloceanspaces.com
+e4478.a.akamaiedge.net
+www.ketchapp.org
+humb.apple.com
+firebaseremoteconfig.googleapis.com
+sapphire-api.target.com
+devices.carnivalmobile.com
 bugsnag.com$
-0.0.0.0 api-usent.kampyle.com
-0.0.0.0 s.w-x.co
-0.0.0.0 events.mapbox.com
-0.0.0.0 api.apptentive.com
+api-usent.kampyle.com
+s.w-x.co
+events.mapbox.com
+api.apptentive.com
 ioam.de$
-0.0.0.0 analytics.twitter.com
-0.0.0.0 svcs.ebay.com
-0.0.0.0 adf0901f1861.cdn4.forter.com
-0.0.0.0 mads.amazon.com
-0.0.0.0 unagi-na.amazon.com
-0.0.0.0 firebaseinappmessaging.googleapis.com
-0.0.0.0 cl2.apple.com
-0.0.0.0 seed-dejavu.siri.apple.com
-0.0.0.0 push.rollout.io
-0.0.0.0 mtalk.google.com
-0.0.0.0 smetrics.att.com
-0.0.0.0 assets.adobedtm.com
-0.0.0.0 dpm.demdex.net
-0.0.0.0 b.thumbs.redditmedia.com
-0.0.0.0 cdn-settings.segment.com
-0.0.0.0 codepush.appcenter.ms
-0.0.0.0 traces.sr.roku.com
-0.0.0.0 mobile.logs.roku.com
-0.0.0.0 cognito-identity.us-east-1.amazonaws.com
-0.0.0.0 smp-device-content.apple.com
-0.0.0.0 athena.helpshift.com
-0.0.0.0 aplimg.com
-0.0.0.0 apple-dns.net  
-0.0.0.0 apple.com.akadns.net  
-0.0.0.0 apple.com.cn  
-0.0.0.0 apple.com.edgekey.net  
-0.0.0.0 apple.com.edgesuite.net  
-0.0.0.0 apple.news  
-0.0.0.0 apple.pa  
-0.0.0.0 applecard.apple  
-0.0.0.0 applemusic.com  
-0.0.0.0 beatsbydre.com  
-0.0.0.0 cdn-apple.com  
-0.0.0.0 cdn-apple.com.akadns.net  
-0.0.0.0 darksky.net  
-0.0.0.0 ess-apple.com.akadns.net  
-0.0.0.0 gc-apple.com.akadns.net  
-0.0.0.0 gcsis-apple.com.akadns.net  
-0.0.0.0 icloud-content.com  
-0.0.0.0 icloud.com.akadns.net  
-0.0.0.0 itunes-apple.com.akadns.net  
-0.0.0.0 itunes-nocookie.com  
-0.0.0.0 itunes.com.edgekey.net  
-0.0.0.0 ls-apple.com.akadns.net  
-0.0.0.0 ls2-apple.com.akadns.net  
-0.0.0.0 ls3-apple.com.akadns.net  
-0.0.0.0 me.com  
-0.0.0.0 me.com.akadns.net  
-0.0.0.0 mzstatic.com  
-0.0.0.0 mzstatic.com.edgekey.net
-0.0.0.0 nic.beats
-0.0.0.0 origin-apple.com.akadns.net
-0.0.0.0 push-apple.com.akadns.net
-0.0.0.0 shazam.com
-0.0.0.0 swift.org
-0.0.0.0 app.adjust.world
-0.0.0.0 gspe19-ssl.ls.apple.com
-0.0.0.0 safebrowsing.googleapis.com
-0.0.0.0 gsp64-ssl.ls-apple.com.akadns.net
-0.0.0.0 us-east1-aws.api.snapchat.com
-0.0.0.0 aws.api.snapchat.com
+analytics.twitter.com
+svcs.ebay.com
+adf0901f1861.cdn4.forter.com
+mads.amazon.com
+unagi-na.amazon.com
+firebaseinappmessaging.googleapis.com
+cl2.apple.com
+seed-dejavu.siri.apple.com
+push.rollout.io
+smetrics.att.com
+assets.adobedtm.com
+dpm.demdex.net
+b.thumbs.redditmedia.com
+cdn-settings.segment.com
+codepush.appcenter.ms
+traces.sr.roku.com
+mobile.logs.roku.com
+cognito-identity.us-east-1.amazonaws.com
+smp-device-content.apple.com
+athena.helpshift.com
+aplimg.com
+apple-dns.net  
+apple.com.akadns.net  
+apple.com.cn  
+apple.com.edgekey.net  
+apple.com.edgesuite.net  
+apple.news  
+apple.pa  
+applecard.apple  
+applemusic.com  
+beatsbydre.com  
+cdn-apple.com  
+cdn-apple.com.akadns.net  
+darksky.net  
+ess-apple.com.akadns.net  
+gc-apple.com.akadns.net  
+gcsis-apple.com.akadns.net  
+icloud-content.com  
+icloud.com.akadns.net  
+itunes-apple.com.akadns.net  
+itunes-nocookie.com  
+itunes.com.edgekey.net  
+ls-apple.com.akadns.net  
+ls2-apple.com.akadns.net  
+ls3-apple.com.akadns.net  
+me.com  
+me.com.akadns.net  
+mzstatic.com  
+mzstatic.com.edgekey.net
+nic.beats
+origin-apple.com.akadns.net
+push-apple.com.akadns.net
+shazam.com
+swift.org
+gspe19-ssl.ls.apple.com
+safebrowsing.googleapis.com
+gsp64-ssl.ls-apple.com.akadns.net
+us-east1-aws.api.snapchat.com
+aws.api.snapchat.com
 
 # Google Play Store
 
