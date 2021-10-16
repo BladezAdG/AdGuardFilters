@@ -466,52 +466,6 @@ web.vortex.data.microsoft.com
 wes.df.telemetry.microsoft.com
 vortex.data.microsoft.com
 
-# Apple
-# iOS still phones home to tracking domains even with the relevant settings disabled
-
-
-analytics.itunes.apple.com
-apple.comscoreresearch.com
-api.smoot.apple.com
-api2.smoot.apple.com
-api-aka.smoot.apple.com
-banners.itunes.apple.com
-books-analytics-events.apple.com
-bugreport.apple.com
-ca.iadsdk.apple.com
-cf.iadsdk.apple.com
-cf.iad.sdk.apple.com
-cs.iadsdk.apple.com
-cstat.apple.com
-feedback.apple.com
-iad.apple.com
-iadcontent.apple.com
-iadsdk.apple.com
-idiagnostics.apple.com
-internalcheck.apple.com
-iphonesubmissions.apple.com
-iphonediags.apple.com
-iphone-ld.apple.com
-metrics.apple.com
-metrics.icloud.com
-news.iadsdk.apple.com
-notes-analytics-events.apple.com
-radarsubmissions.apple.com
-searchads.apple.com
-securemetrics.apple.com
-securemetrics.apple.com.cn
-securemvt.apple.com
-smoot.apple.com
-smp-device-content.apple.com
-stats.gc.apple.com
-stg-cmws.iad.apple.com
-stocks-analytics-events.apple.com
-supportmetrics.apple.com
-supportmetrics-uat.apple.com
-tr.iadsdk.apple.com
-ut.iadsdk.apple.com
-weather-analytics-events.apple.com
-iadsdk.apple.com
 
 # Amazon ads and tracking
 
