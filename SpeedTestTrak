@@ -79,9 +79,9 @@ $SpeedTest Trackes
 ! Weather app tracking
 ||connecttv.pelmorex.com^
 ! Needed for appstore and login on Samsung UE40F5500
-@@||infolink.pavv.co.kr^
+||infolink.pavv.co.kr^
 ! Required for "TV Plus"
-@@||osb-ussvc.samsungqbe.com^
+||osb-ussvc.samsungqbe.com^
 !auth.samsungosp.com # If blocked, Samsung accounts will fail to authenticate
 !cdn.samsungcloudsolution.com # System update check on Samsung UE40F5500
 !||d1oxlq5h9kq8q5.cloudfront.net^ # app icons in samsung app store
