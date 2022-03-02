@@ -1,7 +1,7 @@
 #Stop TelemeTry Microsoft Products / Windows Products
 *.btloader.com
 *.clo.footprintdns.com
-*.cloudfront.net
+cloudfront.net
 *.edge.permutive.app
 *.js.ubembed.com
 *.nrb.footprintdns.com
