@@ -3,7 +3,7 @@
 
 
 # Facebook
-@@||cdn.fbsbx.com^ # Download Files from inbox
+
 ||ads.facebook.com^
 ||analytics.facebook.com^
 ||connect.facebook.net^
@@ -27,13 +27,13 @@
 ||tr.facebook.com^
 ||sonar-iad.xx.fbcdn.net^
 ||scgraph.facebook.com^
-@@||cdn.fbsbx.com^
+
 
 #Check Google 
 
 # Google
 
-@@||r2---sn-ug5onuxajv-gxmz.gvt1.com^
+
 ||admob.com^
 ||admob.mobi^
 ||admobclick.com^
@@ -4008,3 +4008,57 @@ api.leanplum.com
 ||https://extmaps-api.yandex.net
 ||https://logbak.hicloud.com
 graph.instagram.com
+
+pubads.g.doubleclick.net
+googleads.g.doubleclick.net
+pagead2.googlesyndication.com
+www.googleadservices.com
+analytic-google.com
+www.analytic-google.com
+googletagservices.com
+video-stats.video.google.com
+iv.doubleclick.net
+ln.doubleclick.net
+adservices.google.com
+feedads.googleadservices.
+googleads4.g.doubleclick.net
+googleads2.g.doubleclick.net
+www.doubleclickbygoogle.com
+google-analytics.com
+ssl.google-analytics.com
+www.google-analytics.com
+analytics.google.com
+ads.youtube.com
+s0.2mdn.net
+s1.2mdn.net
+ad.doubleclick.net
+static.doubleclick.net
+files.adform.net
+secure-ds.serving-sys.com
+ads.doubleclick.net
+ad.youtube.com
+clients1.google.com
+dts.innovid.com
+pixel.moatads.com
+rtd.tubemogul.com
+s.youtube.com
+s.innovid.com
+stats.g.doubleclick.net
+clients.l.google.com
+pagead.l.doubleclick.net
+googleadapis.l.google.com
+securepubads.g.doubleclick.net
+2975c.v.fwmrm.net
+googleadservices.com
+ad-g.doubleclick.net
+ad.mo.doubleclick.net
+doubleclick.net
+pagead.googlesyndication.com
+pagead1.googlesyndication.com
+youtube-nocookie.com
+www.youtube-nocookie.com
+www.googletagservices.com
+fwmrm.net
+innovid.com
+2mdn.net
+
