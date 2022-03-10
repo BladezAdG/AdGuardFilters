@@ -4044,7 +4044,6 @@ rtd.tubemogul.com
 s.youtube.com
 s.innovid.com
 stats.g.doubleclick.net
-clients.l.google.com
 pagead.l.doubleclick.net
 googleadapis.l.google.com
 securepubads.g.doubleclick.net
